@@ -14,23 +14,23 @@ Compilation fo data analysis algorithms
 In this part, I implemented the self-taught learning for a 3 layer Neural Network using an Autoencoder and analysed the reconstruction error rate for the self-taught learning model with the increase in layers of the neural net.
 
 # Datasets
-## Task 2A.txt-  Part A
+*Task 2A.txt-  Part A*
 
-## Task 2B_test.csv and Task2B_train.csv - Part B
+ *Task 2B_test.csv and Task2B_train.csv - Part B*
 
-## Task 2C_labeled.csv, Task2C_unlabeled.csv and Task2C_test.csv - Part C
+ *Task 2C_labeled.csv, Task2C_unlabeled.csv and Task2C_test.csv - Part C*
 
 
 # Setup
  
-## Using Anaconda
+ Using Anaconda
 
 
-### Add a R kernel to your jupyter notebook by building a new environment in your anaconda navugator and selecting R kernel and python and launching that virtual environemnt.
+**Add a R kernel to your jupyter notebook by building a new environment in your anaconda navigator and selecting R kernel and python and launching that virtual environemnt.**
 
-## Using the command line/terminal for Mac and linux users
+**Using the command line/terminal for Mac and linux users**
 
-## Commands
+# Commands
 
 Ctrl-Alt-T - shortcut to open terminal
 
